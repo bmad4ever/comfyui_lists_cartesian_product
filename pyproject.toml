@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_lists_cartesian_product"
+description = "Given a set of lists, the node adjusts them so that when used as input to another node all the possible argument permutations are computed."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/bmad4ever/comfyui_lists_cartesian_product"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui_lists_cartesian_product"
+Icon = ""
