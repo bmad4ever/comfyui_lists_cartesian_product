@@ -1,7 +1,7 @@
 [project]
 name = "comfyui_lists_cartesian_product"
 description = "Given a set of lists, the node adjusts them so that when used as input to another node all the possible argument permutations are computed."
-version = "1.0.0"
+version = "1.0.1"
 license = "LICENSE"
 
 [project.urls]
